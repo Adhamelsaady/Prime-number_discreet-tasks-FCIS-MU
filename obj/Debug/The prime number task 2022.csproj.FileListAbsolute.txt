@@ -1,0 +1,8 @@
+F:\vs\The prime number task 2022\The prime number task 2022\bin\Debug\The prime number task 2022.exe.config
+F:\vs\The prime number task 2022\The prime number task 2022\bin\Debug\The prime number task 2022.exe
+F:\vs\The prime number task 2022\The prime number task 2022\bin\Debug\The prime number task 2022.pdb
+F:\vs\The prime number task 2022\The prime number task 2022\obj\Debug\The prime number task 2022.csproj.AssemblyReference.cache
+F:\vs\The prime number task 2022\The prime number task 2022\obj\Debug\The prime number task 2022.csproj.SuggestedBindingRedirects.cache
+F:\vs\The prime number task 2022\The prime number task 2022\obj\Debug\The prime number task 2022.csproj.CoreCompileInputs.cache
+F:\vs\The prime number task 2022\The prime number task 2022\obj\Debug\The prime number task 2022.exe
+F:\vs\The prime number task 2022\The prime number task 2022\obj\Debug\The prime number task 2022.pdb
